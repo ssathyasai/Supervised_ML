@@ -1,4 +1,4 @@
-# supervised_ml_models
+# Supervised Machine Learning
 
 A hands-on repository to learn and practice **Supervised Machine Learning algorithms** with clear implementations and experiments.
 
